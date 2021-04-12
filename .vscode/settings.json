@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/axelsoulard/Downloads/servlet-2.2.8-sources.jar"
+    ]
+}

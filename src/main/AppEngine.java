@@ -2,15 +2,21 @@ package src.main;
 
 import java.io.*;
 
+/*
 import javax.servlet.*;
 
 @WebServlet(
     name = "HelloAppEngine",
     urlPatterns = {"/home"}
 )
+
+*/
+
 public class AppEngine {
-    
-    @Override
+  
+  /*
+
+  @Override
   public void doGet(HttpServletRequest request, HttpServletResponse response) 
       throws IOException {
 
@@ -20,6 +26,7 @@ public class AppEngine {
     response.getWriter().print("Hello App Engine!\r\n");
 
   }
+
+  */
 }
 
-}
